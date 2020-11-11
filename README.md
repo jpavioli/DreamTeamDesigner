@@ -1,4 +1,4 @@
-# MOD4-React-Project
+# Dream Team Designer
 
 Welcome to DreamTeam Designer, where you can build your ultimate fantasy baseball team to keep track of stats as the season progresses! To get started, see below:
  - Copy and clone this repo
